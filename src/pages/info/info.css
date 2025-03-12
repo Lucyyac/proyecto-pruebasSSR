@@ -1,0 +1,10 @@
+.info-portafolio {
+    color: #f7fbfe;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.text-infoUserExperience{
+    width: 800px;
+}
